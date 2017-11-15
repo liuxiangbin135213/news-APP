@@ -1,0 +1,114 @@
+[
+	{
+		"body": {
+			"item": [
+				{
+					"channel": "新闻",
+					"comments": 54,
+					"commentsAll": 54,
+					"commentsUrl": "http://news.ifeng.com/photo/hdnews/detail_2013_11/08/31077870_0.shtml",
+					"documentId": "imcp_73744747",
+					"editTime": "2013/11/08 10:09:54",
+					"extensions": [
+						{
+							"style": "",
+							"type": "style"
+						}
+					],
+					"hasVideo": "N",
+					"id": "http://api.3g.ifeng.com/ipadtestdoc?aid=73744747&channel=%E6%96%B0%E9%97%BB",
+					"introduction": "2012年12月29日至30日，中共中央总书记、中央军委主席习近平在河北省阜平县看望慰问困难群众。这是习近平在龙泉关镇骆驼湾村到困难群众唐荣斌家看望。新华社记者兰红光摄",
+					"isslide": "Y",
+					"links": [
+						{
+							"type": "slide",
+							"url": "http://api.3g.ifeng.com/ipadtestdoc?aid=73744747"
+						},
+						{
+							"type": "doc",
+							"url": "http://api.3g.ifeng.com/ipadtestdoc?aid=73744747&channel=%E6%96%B0%E9%97%BB"
+						}
+					],
+					"source": "",
+					"thumbnail": "http://s0.mimg.ifeng.com/upload/day_131108/201311081359458231_size66_w640_h360_iifeng.jpg",
+					"title": "习近平上任一年考察照片",
+					"type": "list",
+					"updateTime": "2013/11/08 10:09:54"
+				},
+				{
+					"channel": "新闻",
+					"comments": 92,
+					"commentsAll": 92,
+					"commentsUrl": "http://news.ifeng.com/photo/hdsociety/detail_2013_11/08/31079301_0.shtml",
+					"documentId": "imcp_73757884",
+					"editTime": "2013/11/08 05:42:24",
+					"extensions": [
+						{
+							"style": "",
+							"type": "style"
+						}
+					],
+					"hasVideo": "N",
+					"id": "http://api.3g.ifeng.com/ipadtestdoc?aid=73757884&channel=%E6%96%B0%E9%97%BB",
+					"introduction": "张雪贝，陕西广播电视台都市青春频道《都市快报》栏目的新闻记者，1989年出生于湖北武汉，毕业于陕西科技大学。11月8日是中国第14个记者节，我们跟随西安美女记者张雪贝的脚步，体验她最普通的一天。一大早，独自一人在西安闯荡的张雪贝正在化妆",
+					"isslide": "Y",
+					"links": [
+						{
+							"type": "slide",
+							"url": "http://api.3g.ifeng.com/ipadtestdoc?aid=73757884"
+						},
+						{
+							"type": "doc",
+							"url": "http://api.3g.ifeng.com/ipadtestdoc?aid=73757884&channel=%E6%96%B0%E9%97%BB"
+						}
+					],
+					"source": "",
+					"thumbnail": "http://s0.mimg.ifeng.com/upload/day_131108/201311081904083705_size68_w640_h360_iifeng.jpg",
+					"title": "西安女记者的一天",
+					"type": "list",
+					"updateTime": "2013/11/08 13:20:42"
+				},
+				{
+					"channel": "新闻",
+					"comments": 255,
+					"commentsAll": 255,
+					"commentsUrl": "http://news.ifeng.com/photo/hdsociety/detail_2013_11/08/31085244_0.shtml",
+					"documentId": "imcp_73744822",
+					"editTime": "2013/11/08 13:50:54",
+					"extensions": [
+						{
+							"style": "",
+							"type": "style"
+						}
+					],
+					"hasVideo": "N",
+					"id": "http://api.3g.ifeng.com/ipadtestdoc?aid=73744822&channel=%E6%96%B0%E9%97%BB",
+					"introduction": "10月6日0：30，河面上响起缓慢的打击乐和哼吟的人声，这是谭盾创作的开始曲。天空中用焰火逐字打出“OneNightStand，Let’sPlay(一夜情，来吧)”，爆炸声震耳欲聋。80米长的火药船连珠炮似的喷射出绚丽的焰火。",
+					"isslide": "Y",
+					"links": [
+						{
+							"type": "slide",
+							"url": "http://api.3g.ifeng.com/ipadtestdoc?aid=73744822"
+						},
+						{
+							"type": "doc",
+							"url": "http://api.3g.ifeng.com/ipadtestdoc?aid=73744822&channel=%E6%96%B0%E9%97%BB"
+						}
+					],
+					"source": "",
+					"thumbnail": "http://s3.mimg.ifeng.com/upload/day_131108/201311081401165668_size73_w640_h360_iifeng.jpg",
+					"title": "塞纳河上的“一夜情”",
+					"type": "list",
+					"updateTime": "2013/11/08 13:50:54"
+				}
+			]
+		},
+		"meta": {
+			"documentId": "SYDT10",
+			"expiredTime": 180000,
+			"id": "http://api.3g.ifeng.com/iosNews?id=aid=SYDT10&imgwidth=100&type=list&pagesize=20",
+			"pageSize": 2,
+			"type": "list"
+		}
+	}
+]

@@ -1,0 +1,75 @@
+{
+    "resultcode": "200",
+    "reason": "Success",
+    "result": {
+        "data": [
+         	 {
+                "title": "吴昕快乐大本营第一次挑战俯卧撑，真的是用生命在做",
+                "time": "2017-11-05",
+                "weixinname": "视频老君",
+                "weixinaccount": "laojun6666",
+                "weixinsummary": "热点明星、影视视频。",
+                "channelid": "2",
+                "pic": "http://api.jisuapi.com/weixinarticle/upload/201711/05221003_90757.jpeg",
+                "url": "https://v.qq.com/iframe/preview.html?vid=y1327me0958&width=500&height=375&auto=0"
+            },
+            
+            
+            {
+               "title": "探访豫章书院：“有家长”拉横幅挺校方 学生再爆小黑屋",
+                "time": "2017-11-05",
+                "weixinname": "我们视频",
+                "weixinaccount": "womenshipin",
+                "weixinsummary": "每天提供最新鲜、最热门、最有价值的新闻直播和短视频。",
+                "channelid": "2",
+                "pic": "http://api.jisuapi.com/weixinarticle/upload/201711/05221003_80137.jpeg",
+                "url": "https://v.qq.com/iframe/preview.html?vid=s0568onm0b8&width=500&height=375&auto=0"
+            },
+             {
+               "title": "标题自拟 标题自拟 标题自拟",
+                "time": "2017-11-05",
+                "weixinname": "我们视频",
+                "weixinaccount": "womenshipin",
+                "weixinsummary": "每天提供最新鲜、最热门、最有价值的新闻直播和短视频。",
+                "channelid": "2",
+                "pic": "http://api.jisuapi.com/weixinarticle/upload/201711/05221003_80137.jpeg",
+                "url": "https://v.qq.com/iframe/preview.html?vid=a05003ucled&width=500&height=375&auto=0"
+            },
+             {
+               "title": "标题自拟 标题自拟 标题自拟",
+                "time": "2017-11-05",
+                "weixinname": "我们视频",
+                "weixinaccount": "womenshipin",
+                "weixinsummary": "每天提供最新鲜、最热门、最有价值的新闻直播和短视频。",
+                "channelid": "2",
+                "pic": "http://api.jisuapi.com/weixinarticle/upload/201711/05221003_80137.jpeg",
+                "url": "https://v.qq.com/iframe/preview.html?vid=j0500cz69cf&width=500&height=375&auto=0"
+            },
+               {
+               "title": "标题自拟 标题自拟 标题自拟",
+                "time": "2017-11-05",
+                "weixinname": "我们视频",
+                "weixinaccount": "womenshipin",
+                "weixinsummary": "每天提供最新鲜、最热门、最有价值的新闻直播和短视频。",
+                "channelid": "2",
+                "pic": "http://api.jisuapi.com/weixinarticle/upload/201711/05221003_80137.jpeg",
+                "url": "https://v.qq.com/iframe/preview.html?vid=l0500g2k7jp&width=500&height=375&auto=0"
+            },
+             {
+               "title": "标题自拟 标题自拟 标题自拟",
+                "time": "2017-11-05",
+                "weixinname": "我们视频",
+                "weixinaccount": "womenshipin",
+                "weixinsummary": "每天提供最新鲜、最热门、最有价值的新闻直播和短视频。",
+                "channelid": "2",
+                "pic": "http://api.jisuapi.com/weixinarticle/upload/201711/05221003_80137.jpeg",
+                "url": "https://v.qq.com/iframe/preview.html?vid=t0025geedrj&width=500&height=375&auto=0"
+            }
+            
+       ],
+        "totalNum": "306",
+        "pn": "1",
+        "rn": "3"
+    },
+    "error_code": 0
+}
